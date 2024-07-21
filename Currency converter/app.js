@@ -1,8 +1,5 @@
 let base_url =
   "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies";
-// "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
-
-// https://api.currencyapi.com/v3/latest?apikey=cur_live_dzOAP5z9wHBT9eUNIWtljIGMUEAflsxM6uqeLJOd
 
 const dropdownSlct = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("button");
