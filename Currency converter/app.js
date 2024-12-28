@@ -7,6 +7,7 @@ const fromCurr = document.querySelector(".from select");
 const toCurr = document.querySelector(".to select");
 const msg = document.querySelector(".msg");
 
+//Adding option into dropdown list
 for (let select of dropdownSlct) {
   for (currCode in countryList) {
     let newOption = document.createElement("option");
